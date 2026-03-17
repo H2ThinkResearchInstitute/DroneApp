@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Drone Classifier</string>
+    <string name="load_classifier">Load Classifier</string>
+    <string name="no_classifier_selected">No classifier selected</string>
+    <string name="select_a_classifier">Select a classifier</string>
+</resources>
